@@ -1,4 +1,4 @@
-# ![OneWorkspace Logo](https://www.oneworkspace.online/favicon.png) OneWorkspace
+# ![OneWorkspace Logo](./favicon.png)
 
 > **Real-time file synchronization for developer teams.** Synchronize your project folders instantly between laptops and desktops without Git push/pull cycles or cloud server storage.
 
@@ -32,14 +32,27 @@ OneWorkspace is a lightweight desktop application that synchronizes project fold
 ### 01. Setup Workspace
 Choose a folder and generate a secure session code. Teammates enter this code to link their local folders.
 
+![Setup Workspace](guide/1.png)
+
 ### 02. Utilities Toolbar
 Toggle dark/light visual modes, access local manuals, inspect active syncing logs, and read alert notifications.
+
+![Utilities Toolbar](guide/2.png)
 
 ### 03. Cloud Sandbox
 Share your running local web servers securely so teammates can preview changes in real time.
 
+![Cloud Sandbox](guide/3.png)
+
 ### 04. Terminal Output
 Track latency connection speeds and run synchronized terminal commands across all connected machines.
+
+![Terminal Output](guide/4.png)
+
+### 05. Send All
+Send selected items to specific members. This will only transfer files that the recipient does not already have, rather than all data.
+
+![Send All](guide/5.png)
 
 ---
 
