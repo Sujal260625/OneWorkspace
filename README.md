@@ -60,7 +60,7 @@ Send selected items to specific members. This will only transfer files that the 
 
 OneWorkspace is exclusively available for download on our official landing page. Visit the website to get the latest builds for Windows (x64 / ARM64) and macOS (Apple Silicon):
 
-👉 **[Download on Official Website](https://www.oneworkspace.online/)**
+👉 **[Download form Official Website](https://www.oneworkspace.online/)**
 
 ---
 
